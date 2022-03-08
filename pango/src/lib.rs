@@ -65,6 +65,7 @@ pub const SCALE_X_LARGE: f64 = 1.44;
 pub const SCALE_XX_LARGE: f64 = 1.728;
 
 pub mod prelude;
+pub mod subclass;
 
 #[macro_use]
 mod attribute;
